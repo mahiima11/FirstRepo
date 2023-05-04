@@ -1,2 +1,3 @@
 # FirstRepo
-i am very excited
+this is the first repository
+
